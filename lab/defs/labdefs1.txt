@@ -1,0 +1,24 @@
+LAB 1
+
+mkdir: Her lager man directories. Altså mapper på hardisken eks: mkdir skole/uia/is105 så har man laget mappene inni hverandre hvor is105 er den siste.
+
+cd: Change directory. Istedenfor å grafisk gå igjennom mappene kan man skrive det inn i terminal og gjøre det samme. Eksempel: cd documents. Nå befinner jeg meg i documents, skal jeg tilbake kan jeg skrive: cd ..
+
+ls: Fant at det var ganske likt «dir» men fant ut at forskjellen er hvordan resultatet blir presantert. «Dir» viser mappene med / imellom mens LS lister opp alt som er inni men gjør forskjell på filer og mapper.
+
+ls-l: (l) (long format) viser fil type, rettigheter, antall «hard links», eier, gruppe, størrelse, «last-modified date» og filnavn.
+
+ls-la: (la) "Mengden av linker eller kataloger i katalogen. Standard mengde kataloger kommer til å alltid være 2 på grunn av .and. directories." 
+Og standardnummeret for filer må være "1"
+
+pwd: (print working directory) brukes for å sende ut banen(output) til den nåværende arbeidskatalogen(directory)
+
+pipes and redirection: Pipes: brukes til å passere utgang til et annet program eller verktøy. Redirection: brukes til å passere utgang til enten en fil eller strøm.
+
+grep: Med denne kan du søke i filer som har de angitte bokstavene ordene eks: Grep ‘’is-105’’ så vil filer med is-105 i seg komme opp.
+
+cat: med cat så kan man få opp tekst som er inni filen. Hadde jeg kalt dette dokumentet test.txt og skrevet «cat text.txt» ville det kommet opp filnavn og teksten inni.
+
+less: Er en command i terminal som brukes til å åpne større filer fortere. Ettersom den ikke trenger å 
+
+
