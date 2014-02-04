@@ -1,0 +1,25 @@
+If-else: Her har man en if-setning hvis ikke det går gjennom kriteriene til IF så vil else bli executed. Man har også if-else hvor du kan ha 2 eller flere betingelser for at det skal gå igjennom. 
+
+Lambda: Referer til anonyme funksjoner innefor programmering imotsettnng til def. 
+
+OR: For at et OR-uttrykk skal bli SANT, må begge sider av OR-tegnet være SANT. 
+
+AND: For at et AND-uttrykk skal bli SANT, må én av sidene på AND-tegnet være sant. 
+
+NOT X: NOT X er en operasjon som bare utføres på én variabel. 
+
+Bitwise or: Bitwise or sjekker om det er enten eller 1-0 =1, 1-1 = 1, 0-0 =0 
+
+Bitwise Xor: Xor sjekker om ulikheter: 1-1=0, 1-0=1, 0-0=0 
+
+Bitwise and: Her må det være 2 like for at det skal bli 1: 1-0=0, 0-0=0, 1-1=1. Kan ses på som ganging 
+
+Shifts: <<>> eksempel: <<: Den venstre operanden verdi beveges til venstre med antall bits som er angitt på høyre operand. 
+
+Addition and subtraction: Fungerer som pluss og minus +, - Positive, negative, 
+
+bitwise NOT: Exponentiation: Funger som en eksponent skrevet med ”**” 
+
+Ones' complement: Av et binært tall er definert som en verdi ved å invertere alle bitsa i den binære representasjonen av nummeret. 
+
+Two's complement: 2´s compliment skriver ut både med desimal og binært.
