@@ -1,0 +1,9 @@
+# et regulært uttrykk (regular expression) = Et regulært uttrykk er en spesiell tegnsekvens som hjelper deg å matche eller finne andre strenger eller sett med strenger, ved hjelp av en spesialisert syntaks holdt i et mønster. Regulære uttrykk er mye brukt i UNIX verden. 
+
+# import ­ hva betyr dette i et Python program? = Du kan bruke hvilken som helst Python kildefil som en modul ved å utføre en import command på annen Python kildefil. 
+
+# skript­språk - en type programmeringsspråk som tolkes og utføres av separate programmer 
+
+# Perl - Perl, uoffisielt også kalt Practical Extraction and Report Language, er et programmeringsspråk som ble sluppet av Larry Wall 18. desember 1987. Språket «låner» mye av sin funksjonalitet fra for eksempel C. 
+
+# Bash - Bash er et Unix shell skrevet av Brian Fox for GNU-prosjektet som et fri programvare
